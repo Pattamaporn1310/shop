@@ -105,7 +105,7 @@ class _CartPageState extends State<CartPage> {
                       color: Colors.indigo[900],
                       textColor: Colors.white,
                       elevation: 0,
-                      child: Text("BUY NOWwww"),
+                      child: Text("BUY NOW"),
                       onPressed: () {
                         showDialog<String>(
                           context: context,
